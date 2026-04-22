@@ -1,0 +1,50 @@
+[
+  {
+    "time": "2026-04-16 23:00:52",
+    "sensor": "humidity",
+    "value": 9.117449995337214,
+    "severity": "critical",
+    "message": "\ud83d\udca7 Humidity critically LOW (9.1%) \u2014 85% below optimal for Corn",
+    "plant": "Corn"
+  },
+  {
+    "time": "2026-04-16 23:00:52",
+    "sensor": "temperature",
+    "value": 47.82690151717868,
+    "severity": "warning",
+    "message": "\ud83c\udf21\ufe0f Temperature above optimal (47.8\u00b0C) for Corn",
+    "plant": "Corn"
+  },
+  {
+    "time": "2026-04-16 23:00:52",
+    "sensor": "soil_moisture",
+    "value": 8.868035453639724,
+    "severity": "critical",
+    "message": "\ud83c\udf31 Soil Moisture critically LOW (8.9%) \u2014 78% below optimal for Corn",
+    "plant": "Corn"
+  },
+  {
+    "time": "2026-04-16 23:00:52",
+    "sensor": "light",
+    "value": 14.78505586876957,
+    "severity": "critical",
+    "message": "\u2600\ufe0f Light critically LOW (14.8lux) \u2014 98% below optimal for Corn",
+    "plant": "Corn"
+  },
+  {
+    "time": "2026-04-16 23:00:52",
+    "sensor": "leaf_wetness",
+    "value": 95.48148663978549,
+    "severity": "critical",
+    "message": "\ud83d\udca6 Leaf Wetness critically HIGH (95.5%) \u2014 59% above optimal for Corn",
+    "plant": "Corn"
+  },
+  {
+    "time": "2026-04-16 23:00:52",
+    "sensor": "leaf_color",
+    "value": 14.04060955019636,
+    "severity": "critical",
+    "message": "\ud83c\udf43 Leaf Color critically LOW (14.0) \u2014 80% below optimal for Corn",
+    "plant": "Corn"
+  }
+]

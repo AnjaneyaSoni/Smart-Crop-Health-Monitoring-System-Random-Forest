@@ -1,0 +1,162 @@
+{
+  "Corn": {
+    "humidity": {
+      "optimal_min": 60.0,
+      "optimal_max": 80.0,
+      "weight": 0.2
+    },
+    "temperature": {
+      "optimal_min": 20.0,
+      "optimal_max": 40.0,
+      "weight": 0.25
+    },
+    "soil_moisture": {
+      "optimal_min": 40.0,
+      "optimal_max": 70.0,
+      "weight": 0.2
+    },
+    "light": {
+      "optimal_min": 800.0,
+      "optimal_max": 1500.0,
+      "weight": 0.15
+    },
+    "leaf_wetness": {
+      "optimal_min": 30.0,
+      "optimal_max": 60.0,
+      "weight": 0.1
+    },
+    "leaf_color": {
+      "optimal_min": 70.0,
+      "optimal_max": 100.0,
+      "weight": 0.1
+    }
+  },
+  "Wheat": {
+    "humidity": {
+      "optimal_min": 55,
+      "optimal_max": 75,
+      "weight": 0.2
+    },
+    "temperature": {
+      "optimal_min": 15,
+      "optimal_max": 25,
+      "weight": 0.25
+    },
+    "soil_moisture": {
+      "optimal_min": 35,
+      "optimal_max": 65,
+      "weight": 0.2
+    },
+    "light": {
+      "optimal_min": 700,
+      "optimal_max": 1300,
+      "weight": 0.15
+    },
+    "leaf_wetness": {
+      "optimal_min": 25,
+      "optimal_max": 55,
+      "weight": 0.1
+    },
+    "leaf_color": {
+      "optimal_min": 65,
+      "optimal_max": 95,
+      "weight": 0.1
+    }
+  },
+  "Rice": {
+    "humidity": {
+      "optimal_min": 70,
+      "optimal_max": 90,
+      "weight": 0.2
+    },
+    "temperature": {
+      "optimal_min": 22,
+      "optimal_max": 32,
+      "weight": 0.2
+    },
+    "soil_moisture": {
+      "optimal_min": 50,
+      "optimal_max": 80,
+      "weight": 0.25
+    },
+    "light": {
+      "optimal_min": 600,
+      "optimal_max": 1200,
+      "weight": 0.15
+    },
+    "leaf_wetness": {
+      "optimal_min": 40,
+      "optimal_max": 70,
+      "weight": 0.1
+    },
+    "leaf_color": {
+      "optimal_min": 65,
+      "optimal_max": 95,
+      "weight": 0.1
+    }
+  },
+  "Tomato": {
+    "humidity": {
+      "optimal_min": 65,
+      "optimal_max": 85,
+      "weight": 0.2
+    },
+    "temperature": {
+      "optimal_min": 18,
+      "optimal_max": 28,
+      "weight": 0.25
+    },
+    "soil_moisture": {
+      "optimal_min": 45,
+      "optimal_max": 75,
+      "weight": 0.2
+    },
+    "light": {
+      "optimal_min": 1000,
+      "optimal_max": 1800,
+      "weight": 0.15
+    },
+    "leaf_wetness": {
+      "optimal_min": 35,
+      "optimal_max": 65,
+      "weight": 0.1
+    },
+    "leaf_color": {
+      "optimal_min": 70,
+      "optimal_max": 100,
+      "weight": 0.1
+    }
+  },
+  "Aniket": {
+    "humidity": {
+      "optimal_min": 50.0,
+      "optimal_max": 80.0,
+      "weight": 0.1667
+    },
+    "temperature": {
+      "optimal_min": 50.0,
+      "optimal_max": 80.0,
+      "weight": 0.1667
+    },
+    "soil_moisture": {
+      "optimal_min": 50.0,
+      "optimal_max": 80.0,
+      "weight": 0.1667
+    },
+    "light": {
+      "optimal_min": 50.0,
+      "optimal_max": 80.0,
+      "weight": 0.1667
+    },
+    "leaf_wetness": {
+      "optimal_min": 50.0,
+      "optimal_max": 80.0,
+      "weight": 0.1667
+    },
+    "leaf_color": {
+      "optimal_min": 50.0,
+      "optimal_max": 80.0,
+      "weight": 0.1667
+    }
+  }
+}
